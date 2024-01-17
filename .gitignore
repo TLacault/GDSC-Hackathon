@@ -1,0 +1,9 @@
+# Source Code
+*.cpp
+
+# Temporary files
+*.o
+
+# Other
+.vscode
+.clang-format
